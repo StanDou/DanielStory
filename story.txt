@@ -1,0 +1,3 @@
+ Hey Guys, I am driven crazy tonight by the python KMeans.
+ The question is so dumb and I can't understand any of it.
+ I hate this assignment.
