@@ -4,4 +4,5 @@
 
 Despite KMeans best effort, Daniel triumphed over the puny data structuring algorithm. Daniel's hatred for this assignment threatened to boil over when suddenly he experienced a moment of clarity; the story section of the assignment was of absolutely no consequence. It was simply a rudimentary test of his ability to remotely edit code using GitHub! Daniel's perseverance paid off when he finally committed and pushed his last file to GitHub... Until the next assignment!
 
+Thinking it over, Daniel wondered whether or not the instructor would accept his interpretation of the assignment. He imagined that his teammates would likely agree that he had understood the crucial elements of the assignment and it could be argued that his submission was within the project guidelines. Perhaps Daniel really was the character in his own story...
 
