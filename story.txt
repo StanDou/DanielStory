@@ -9,7 +9,7 @@ Thinking it over, Daniel wondered whether or not the instructor would accept his
 After two teammates had already clarified Daniel's interpretation, Tom's job was easy. All he had to do was reiterate their points. 
 Tom agreed that Daniel had triumphed over the puny data structuring algorithm! Tom also thought the instructor would accept his interpretation of the assignment! Overall, Tom was glad everyone now knew how to use github.
 
-
+Fortunately, I have already figured out all problems and get full score! That's so nice!
 
 
 
