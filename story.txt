@@ -6,3 +6,5 @@ Despite KMeans best effort, Daniel triumphed over the puny data structuring algo
 
 Thinking it over, Daniel wondered whether or not the instructor would accept his interpretation of the assignment. He imagined that his teammates would likely agree that he had understood the crucial elements of the assignment and it could be argued that his submission was within the project guidelines. Perhaps Daniel really was the character in his own story...
 
+After two teammates had already clarified Daniel's interpretation, Tom's job was easy. All he had to do was reiterate their points. 
+Tom agreed that Daniel had triumphed over the puny data structuring algorithm! Tom also thought the instructor would accept his interpretation of the assignment! Overall, Tom was glad everyone now knew how to use github.
